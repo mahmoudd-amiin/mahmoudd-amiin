@@ -1,4 +1,4 @@
-# Hi there, I'm Mahmoud Amin 👋
+# Hi there, I'm Mahmoud Amin 
 
 ### Data Analyst | Python | SQL | Power BI | Excel | Tableau
 
@@ -63,13 +63,6 @@ An interactive aviation analytics project designed to monitor flight operations,
 - IBM Data Fundamentals.
 - Google Looker.
 
----
-
-##  GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudd-amiin&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudd-amiin&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
