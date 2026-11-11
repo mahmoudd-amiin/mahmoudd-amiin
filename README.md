@@ -1,3 +1,6 @@
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0284C7&height=180&section=header&text=Mahmoud%20Amin&fontSize=50&fontColor=F0F6FC&fontAlignY=35&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel%20%7C%20Tableau&descSize=17&descAlignY=58&animation=fadeIn)
+
 # Hi there, I'm Mahmoud Amin 
 
 ### Data Analyst | Python | SQL | Power BI | Excel | Tableau
